@@ -10,6 +10,12 @@ intel realsense devices Documentation
    :maxdepth: 2
 
    installation
+   driver
+   device
    usage
+   examples
+   recorder
    release-history
    min_versions
+   configuration_file
+   stream
